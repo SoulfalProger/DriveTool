@@ -21,3 +21,6 @@ For example you have the document link:
 https://drive.google.com/file/d/blabalbalv1blabalbla/view?usp=sharing
 
 blabalbalv1blabalbla <-- This is file ID
+
+If you want to support me financially, then you can transfer TON to my TON wallet:
+UQCK7CrEV8DgwxkgFSxRhEhvrPrT5PgDO6j0Y3ccGL_jo42I
